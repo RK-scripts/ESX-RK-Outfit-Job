@@ -1,33 +1,35 @@
 # ESX-RK-Outfit-Job
-Innovativo Job Outfit per ESX - FiveM
+Innovative Job Outfit for ESX - FiveM
 
-• Framework Compatibile: 
+• Compatible Framework: 
   • ESX
- Dipendenze Richieste:
+ Required Dependencies:
 
-  •  fivem-appearance (Supporto per altri sistemi in arrivo!)
-  •  ox_lib
+  • fivem-appearance (Support for more systems coming soon!)
+  • ox_lib
   • ox_target
-  •  oxmysql
+  • oxmysql
 
-Descrizione:
-Questo sistema avanzato di gestione outfit per FiveM rivoluziona la personalizzazione dei personaggi legati ai job all'interno di un server ESX.
-Il sistema consente ai giocatori di salvare ed eliminare gli outfit direttamente in game, con una configurazione semplice e intuitiva per gestire i permessi e i gradi.
+Description:
+This advanced outfit management system for FiveM revolutionizes the customization of job-related characters within an ESX server.
+The system allows players to save and delete outfits directly in game, with a simple and intuitive configuration to manage permissions and ranks.
 
-Funzionalità Principali:
- Gestione Outfit Personalizzata:
+Main Features:
+ Personalized Outfit Management:
 
- • Salvataggio di outfit con un'interfaccia user-friendly.
- •  Possibilità di eliminare gli outfit non più necessari.
+ • Saving outfits with a user-friendly interface.
+ • Ability to eliminate outfits no longer needed.
 
-• Gradi Personalizzati:
+• Custom Ranks:
 
-   • Imposta un grado minimo per l'utilizzo di ciascun outfit.
-   • Configura i permessi direttamente nel file config.lua.
+   • Set a minimum rank for using each outfit.
+   • Configure permissions directly in the config.lua file.
 
-• Compatibilità Estesa:
+• Extended Compatibility:
 
-    Inizialmente ottimizzato per fivem-appearance, con il supporto per altri sistemi in arrivo.
+    Initially optimized for fivem-appearance, with support for other systems on the way.
+
+discord:https://discord.gg/z8NP6qNZ
 
 Config.lua
 
